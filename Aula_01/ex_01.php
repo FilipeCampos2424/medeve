@@ -2,5 +2,5 @@
 
 $nomes = ["Mario", "Luigi", "Marcelo", "Antônio", "Marta"];
 
-echo "Primeiro nome ",$nomes[0],"\nÚltimo nome: ",$nomes[4];
+echo "Primeiro nome ",$nomes[0],"<br>Último nome: ",$nomes[4];
 ?>
