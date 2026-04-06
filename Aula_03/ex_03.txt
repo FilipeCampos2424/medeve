@@ -1,0 +1,3 @@
+data - dados e informações do projeto
+includes - códigos para reaproveitar no projeto
+pages - telas/páginas do site

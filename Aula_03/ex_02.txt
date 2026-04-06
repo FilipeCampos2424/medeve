@@ -1,0 +1,26 @@
+cadastro-alunos/
+    index.php
+    cadastro.php
+
+    assets/
+        css/
+        js/
+        img/
+    
+    config/
+        config.php
+    
+    includes/
+        header.php
+        menu.php
+        footer.php
+        auth.php
+    data/
+        dados.php
+    pages/
+        dashboard.php
+        contas/
+            listar.php
+            cadastrar.php
+            editar.php
+            excluir.php

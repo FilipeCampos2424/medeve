@@ -1,0 +1,4 @@
+Organizar pastas em um sistema é importante 
+para a otimização e rapidez do mesmo,
+e ajudar na navegação do projeto,
+evitando confusão na hora de navegar pelo código.
