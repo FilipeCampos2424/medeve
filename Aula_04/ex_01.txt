@@ -1,0 +1,2 @@
+É o método que armazena dados entre navegamentos de páginas de um site durante seu uso,
+Por exemplo: Ele guarda o login de uma pessoa, o que ela fez e o que ela pode fazer.
