@@ -1,0 +1,2 @@
+Perfil de usuário é basicamente o poder dele,
+o que ele pode fazer no site é baseado em seu perfil.

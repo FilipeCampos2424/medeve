@@ -1,0 +1,5 @@
+controle lógico é basicamente a back-end, que controla as 
+operações, condições, validações, login etc, sem nada visual
+
+o controle visual é a front-end que controla todo esse back-end
+e aplica de uma forma que você consegue visualizar
